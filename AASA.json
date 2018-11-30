@@ -1,2 +1,13 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “MPB5FAC9MR.io.singulart.safecontrol",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
